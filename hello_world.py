@@ -1,3 +1,6 @@
-#!/bin/bash
+def my_function(fname):
+  print(fname + " Refsnes")
 
-echo -e "\nExample hello_world\n"
+my_function("Emil")
+my_function("Tobias")
+my_function("Linus")
